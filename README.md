@@ -21,8 +21,27 @@ Actuellement, je développe notamment un **CRM métier sous Laravel**, avec gest
 ---
 
 ## 🛠️ Technologies & compétences
-<p align="center" style="gap: 10px; display: flex; justify-content: center;">
-  <img src="https://urskill.erickpaoletti.fr?icons=laravel,csharp,php,sequelize,,,github,git,gitlab,blender,nodejs,cpp,python,fastapi,,,docker,visualstudio,vscode,wordpress,html,javascript,react,prisma,,,githubactions,mariadb,sqlserver,mysql,vuejs,dotnet,expressjs,tailwindcss,,,npm,,,,angular,postgresql,electron&max_per_row=10&background_color=decfcf" />
+
+<p align="center">
+  <picture>
+    <!-- Mode sombre GitHub -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://urskill.erickpaoletti.fr?icons=laravel,csharp,php,sequelize,,,github,git,gitlab,blender,nodejs,cpp,python,fastapi,,,docker,visualstudio,vscode,wordpress,html,javascript,react,prisma,,,githubactions,mariadb,sqlserver,mysql,vuejs,dotnet,expressjs,tailwindcss,,,npm,,,,angular,postgresql,electron&max_per_row=10&background_color=8f8f8f"
+    />
+
+    <!-- Mode clair GitHub -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://urskill.erickpaoletti.fr?icons=laravel,csharp,php,sequelize,,,github,git,gitlab,blender,nodejs,cpp,python,fastapi,,,docker,visualstudio,vscode,wordpress,html,javascript,react,prisma,,,githubactions,mariadb,sqlserver,mysql,vuejs,dotnet,expressjs,tailwindcss,,,apache,,,,angular,postgresql,electron&max_per_row=10&background_color=ffffff"
+    />
+
+    <!-- Image par défaut -->
+    <img
+      alt="Technologies et compétences"
+      src="https://urskill.erickpaoletti.fr?icons=laravel,csharp,php,sequelize,,,github,git,gitlab,blender,nodejs,cpp,python,fastapi,,,docker,visualstudio,vscode,wordpress,html,javascript,react,prisma,,,githubactions,mariadb,sqlserver,mysql,vuejs,dotnet,expressjs,tailwindcss,,,apache,,,,angular,postgresql,electron&max_per_row=10&background_color=ffffff"
+    />
+  </picture>
 </p>
 
 ---
